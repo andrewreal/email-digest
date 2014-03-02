@@ -1,0 +1,6 @@
+Email-Digest is a small Python program that reads a number of in-boxes and 
+creates a report on the latest messages.
+
+Email-Digest was created to aid the monitoring of a number of email accounts
+that were used in small bursts but needed to be regularly checked for new 
+messages.
